@@ -18,7 +18,7 @@ body{
     color: wheat;
     padding: 20px;
     text-align: center;
-
+    width:500vw;
     
 }
 
@@ -46,6 +46,7 @@ body{
 .topnav{
     overflow: hidden;
     background-color:rgb(214, 103, 12);
+    width: 500vw;
     
 }
 
@@ -80,8 +81,8 @@ body{
 
 .column{
     /* float: left; */
-    height: 350px;
-    width: 450px;
+    height: 255vh;
+    width: 150vw;
     padding: 20px 20px;
     border: 2px solid rgb(230, 245, 18);
     
@@ -95,7 +96,7 @@ body{
   /* background-color: aqua; */
   position: relative;
   top: -420px;
-  margin: 0px 50px;
+  margin: 1vh 80vw;
   
   
 }
@@ -145,8 +146,12 @@ body{
     /* position: relative; */
     font-size: large;
     /* right: 90px; */
-    padding: 10px;
+    padding: 1rem;
+
   }
+.img1{
+  width: 500vw;
+}
     
 /* }
 .container{
