@@ -81,7 +81,7 @@ body{
 
 .column{
     /* float: left; */
-    height: 255vh;
+    height: 50vh;
     width: 150vw;
     padding: 20px 20px;
     border: 2px solid rgb(230, 245, 18);
