@@ -83,12 +83,13 @@ body{
 display:flex;
 justify-content:space-between;
 flex-wrap:wrap;
+justify-content:center;
 }
 
 .column{
  width:30%;
- height:250px;
-border: 2px solid yellow;
+ height:150px;
+border: 2px solid red;
 
 }
     
